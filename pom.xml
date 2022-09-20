@@ -5,10 +5,10 @@
   <groupId>org.example</groupId>
   <artifactId>demo-nexuss</artifactId>
 <!--  <version>1.5</version>-->
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <scm>
     <developerConnection>scm:git:git@github.com:rapmons/demo_nexuss.git</developerConnection>
-    <tag>demo-nexuss-1.5</tag>
+    <tag>demo-nexuss-1.0.0</tag>
   </scm>
   <build>
     <plugins>
