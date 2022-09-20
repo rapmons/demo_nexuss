@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>demo-nexus</artifactId>
+  <artifactId>demo-nexuss</artifactId>
   <version>1.5</version>
   <scm>
     <developerConnection>scm:git:git@github.com:rapmons/demo_nexuss.git</developerConnection>
-    <tag>demo-nexus-1.5</tag>
+    <tag>demo-nexuss-1.5</tag>
   </scm>
   <build>
     <plugins>
