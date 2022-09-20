@@ -5,7 +5,7 @@
   <groupId>org.example</groupId>
   <artifactId>demo-nexuss</artifactId>
 
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.4-SNAPSHOT</version>
   <scm>
     <developerConnection>scm:git:https://github.com/rapmons/demo_nexuss.git</developerConnection>
     <tag>demo-nexuss-1.0.0</tag>
